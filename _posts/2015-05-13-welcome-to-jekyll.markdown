@@ -1,25 +1,14 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2015-05-13 19:11:32
+title: Wayfarers Small Batch
+date: {}
 categories: jekyll update
+published: true
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
-Jekyll also offers powerful support for code snippets:
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+Odd Future banjo beard hella XOXO put a bird on it migas, Schlitz organic readymade lomo Vice YOLO kale chips. Normcore roof party fixie sartorial heirloom. Post-ironic forage Blue Bottle, Vice migas vinyl High Life Pitchfork authentic. IPhone irony four loko, tilde four dollar toast aesthetic XOXO pour-over narwhal leggings skateboard. Mustache hella Austin lumbersexual meh. High Life biodiesel sustainable, heirloom chia distillery polaroid four dollar toast keffiyeh pop-up retro small batch Wes Anderson meditation. Street art heirloom drinking vinegar, ethical Brooklyn Pinterest cred tattooed before they sold out cray cold-pressed.
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
 
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
+
