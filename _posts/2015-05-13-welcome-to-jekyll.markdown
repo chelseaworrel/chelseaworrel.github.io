@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Wayfarers Small Batch
-date: {}
+date: 2015-05-13
 categories: jekyll update
 published: true
 ---
