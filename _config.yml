@@ -8,6 +8,7 @@ description: > # this means to ignore newlines until "baseurl:"
   <li>Ruby Web Applications with Sinatra and Rails</li>
   <li>Professional Web Applications, Security, and Agile Methodologies</li>
   <li>Performance, APIs, Services, and Client-Side JavaScript</li>
+  <img src="CW-logo.png" alt="CW Logo" height="42" width="42">
   </ul>
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://chelseaworrel.github.io" # the base hostname & protocol for your site
