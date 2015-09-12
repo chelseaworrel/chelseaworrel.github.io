@@ -8,7 +8,7 @@ Hello World.
 
 My name is Chelsea Worrel, I am mom to a sweet little girl that is in second grade, she speaks fluent French and makes my world AMAZING.  I love to read, work on house projects and study architecture in my free-time.  - and I would love for you to take the time to view some of my personal projects:
 
-(https://stormy-dawn-9838.herokuapp.com "iheartit")
+[visit iheartit](https://stormy-dawn-9838.herokuapp.com)
  -- this is a site for educational purposes only that uses the Instagram API and is a place to hold inspiration for Mommas.  Save photos to your profile of all things you love including kids decor and kids style.
 
 https://mighty-cove-2989.herokuapp.com
